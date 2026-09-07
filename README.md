@@ -45,14 +45,14 @@ src/
 ## Capturas de Pantalla 
 
 ### Home
-![Home](src/assets/home.png)
+![Home](img/home.png)
 
 ### lista de de libros
-![lista](src/assets/listaLibros.png)
+![lista](img/aggLibro.png)
 
 ### libros
-![libros](src/assets/aggLibro.png)
+![libros](img/listaLibros.png)
 
 ### Error 404
-![Error](src/assets/NotFound.png)
+![Error](img/NotFound.png)
 "# Booklist-01"  
