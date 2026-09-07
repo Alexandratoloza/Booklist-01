@@ -40,7 +40,10 @@ src/
 ## ⚙️ Instalación y ejecución
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/usuario/proyecto-libro-m6.git
+   git clone https://github.com/Alexandratoloza/Booklist-01.git
+
+## Git Hub Pages
+https://alexandratoloza.github.io/Booklist-01/
 
 ## Capturas de Pantalla 
 
@@ -55,4 +58,4 @@ src/
 
 ### Error 404
 ![Error](img/NotFound.png)
-"# Booklist-01"  
+ 
