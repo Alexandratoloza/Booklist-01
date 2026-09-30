@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <header>
-      <h1>📚 BookList SPA</h1>
+      <h1>📚 BookList SPA actualizacion</h1>
       <nav class="navbar">
         <router-link to="/">Home</router-link>
         <router-link to="/libros">Libros</router-link>
