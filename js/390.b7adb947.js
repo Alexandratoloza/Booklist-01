@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkrouter_advance_cli"]=self["webpackChunkrouter_advance_cli"]||[]).push([[390],{7390:function(n,e,a){a.r(e),a.d(e,{default:function(){return l}});var r=a(6768);function t(n,e){return(0,r.uX)(),(0,r.CE)("div",null,[...e[0]||(e[0]=[(0,r.Lk)("h1",null,"404 - Página no encontrada",-1),(0,r.Lk)("p",null,"La ruta que intentaste abrir no existe.",-1)])])}var u=a(1241);const c={},i=(0,u.A)(c,[["render",t],["__scopeId","data-v-ede0243a"]]);var l=i}}]);
+//# sourceMappingURL=390.b7adb947.js.map
